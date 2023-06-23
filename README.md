@@ -4,7 +4,7 @@ This web application is a text editor that allows the user to type, add stickers
 
 ## Usage
 
-Start by opening the application [here]()
+Start by opening the application [here](https://tonyadimey.github.io/text-editor/)
 
 ## Video
 
